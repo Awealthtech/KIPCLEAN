@@ -87,7 +87,13 @@ body{
     outline: none;
 }
 
-.container option{
+.container label{
+    margin: 8px 0;
+    color:#669646;
+    font-size: 13px;
+}
+
+.container select{
     background-color: rgb(236, 217, 174);
     border: none;
     margin: 8px 0;
